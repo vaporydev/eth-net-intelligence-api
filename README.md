@@ -1,4 +1,4 @@
-Ethereum Network Intelligence API "Classic"
+Vapory Network Intelligence API "Classic"
 ============
 [![Build Status][travis-image]][travis-url] [![dependency status][dep-image]][dep-url]
 
